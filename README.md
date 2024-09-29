@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hondAAA99
 - 👀 I’m interested in crossplatform apps
-- 🌱 I’m currently learning c plusplus, data structure & algorithms
-- 💞️ I’m looking to collaborate on flutter apps
+- 🌱 I’m currently learning c++ , data structure & algorithms
+<!--- 💞️ I’m looking to collaborate on --->
 - 📫 How to reach me muhanaddata1@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
