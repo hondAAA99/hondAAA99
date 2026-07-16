@@ -3,7 +3,6 @@
 
 Self-taught backend engineer based in Cairo, Egypt — building server-side sys>
 
-- 🎓 Third-year Commerce/Accounting student at Sohag University (expected 202>
 - 🛠️ Best Performer, Route Academy Backend Development Diploma
 - 🏫 Backend Instructor at Cipher Sohag University
 - 🌍 Volunteer Project Manager at GDG South Valley
