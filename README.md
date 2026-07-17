@@ -17,13 +17,6 @@ Self-taught backend engineer based in Cairo, Egypt — building server-side sys>
 **Also exploring:** Competitive programming in C++ (Codeforces, LeetCode) · s>
 
 ---
-
-### 🚧 What I'm building
-
-- **Nile View Suites** — a full-stack hotel booking system for a concept 40-r>
-- **Cinema Booking Website** — a team project (backend/frontend/UI-UX) for bo>
-
----
 ### 📊 GitHub Stats
 
 <picture>
